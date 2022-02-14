@@ -43,17 +43,21 @@ For today's lab, you will be creating a series of if/else if/else statements to 
 
 ![](Problem1.gif)
 
-**CHALLENGE #2**: Draw a circle if the `mouseX` is at a given coordinate. For example, if the `mouseX` is at 100, draw the circle at x value of 100. If the `mouseX` is at 200 draw the ellipse at x = 200. You should continue this logic for the entire width of the screen.
+**CHALLENGE #2**: Draw a square in the middle of the screen when the mouse is to the top of the center of the screen. Draw a circle in the bottom of the screen when the mouse is to the right of the center of the screen. 
 
 ![](Problem2.gif)
 
-**CHALLENGE #3**: Draw a circle on the screen as the cursor moves to the right. Circles should appear about every 100 units on the x axis. For example, draw the first circle only if the `mouseX` is larger than 100, the second if the `mouseX` is larger than 200, etc.
+**CHALLENGE #3**: Draw a circle if the `mouseX` is at a given coordinate. For example, if the `mouseX` is at 100, draw the circle at x value of 100. If the `mouseX` is at 200 draw the ellipse at x = 200. You should continue this logic for the entire width of the screen.
 
 ![](Problem3.gif)
 
-**CHALLENGE #4**: Use conditionals to program a traffic light that changes colors according to the position of your mouse. **Only one ellipse can light up at a time.**
+**CHALLENGE #4**: Draw a circle on the screen as the cursor moves to the right. Circles should appear about every 100 units on the x axis. For example, draw the first circle only if the `mouseX` is larger than 100, the second if the `mouseX` is larger than 200, etc.
 
 ![](Problem4.gif)
+
+**CHALLENGE #5**: Use conditionals to program a traffic light that changes colors according to the position of your mouse. **Only one ellipse can light up at a time.**
+
+![](Problem5.gif)
 
 **STRETCH**: Restructure the code you drew above, but the green light should only turn on when the mouse is clicked. You will need to research how to do this on the p5 documentation!
 

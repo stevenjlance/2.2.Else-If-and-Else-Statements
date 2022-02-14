@@ -2,14 +2,14 @@
 
 function setup() {
   createCanvas(500, 500);
-	background(200);
+	background(0);
 }
 
 function draw() {
-  
 	
 
 
+	
 
 
 	
